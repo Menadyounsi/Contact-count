@@ -1,9 +1,9 @@
 Bob
-134 herbert road
+herbert road
 Plumstead
 London
-se18 3pu
-02083160065
+se18 7hn
+02083161000
 James
 53 Prince John Road
 Eltham
@@ -11,7 +11,10 @@ London
 se9 9bb
 02083102010
 Earl
-93 Wyndham Road
+Wyndham Road
 Stoke-On-Trent
-st4 4gh
-
+st4 7gh
+Carl
+main street
+manchester
+mn4 6hn
